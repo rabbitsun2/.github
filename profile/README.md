@@ -4,6 +4,8 @@
 <h3 align="left">Connect with me: 82+10-8420-3478 / rabbit.white at daum dot net</h3>
 <br>
 <h3 align="left">https://rabbitsun2.github.io</h3>
+<h3 align="left">https://whitedodo.github.io</h3>
+<h3 align="left">https://gnu5.cakeon-project.xyz</h3>
 <p align="left">
 </p>
 
