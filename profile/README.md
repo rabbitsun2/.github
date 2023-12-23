@@ -5,7 +5,6 @@
 <br>
 <h3 align="left">https://rabbitsun2.github.io</h3>
 <h3 align="left">https://whitedodo.github.io</h3>
-<h3 align="left">http://cakeon-project.xyz</h3>
 <p align="left">
 </p>
 
