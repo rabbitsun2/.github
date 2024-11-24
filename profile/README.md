@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Doyoon Jung</h1>
 <h3 align="center">A passionate developer from South Korea</h3>
 
-<h3 align="left">Connect with me: 82+10-8420-3478 / 
+<h3 align="left">Connect with me: 82+10-8420-3478<br>
 rabbit.white at daum dot net<br>
 dyjung@my.honam.ac.kr
 </h3>
