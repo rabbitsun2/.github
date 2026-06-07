@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Doyoon Jung</h1>
+<h1 align="center">Hi 👋, I'm Dr. Do-Yoon Jung</h1>
 <h3 align="center">A passionate developer from South Korea</h3>
 
 <h2>1. About my GitHub</h2>
 My GitHub is where I freely share what I have learned from studying source codes for Spring Framework, C++, C#, Python, Arduino, Atmega, etc.
 I'm putting a lot of effort into this in the hope that it will help developers be a little more productive in their development.<br>
 <h2>2. How to contact me</h2>
-* Name: Do-Yoon Jung (PhD Program)<br>
+* Name: Do-Yoon Jung (Ph. D in Engineering)<br>
 * Major: Computer Engineering<br>
 * E-mail: rabbitsun2 at gmail dot com<br>
 <br>
